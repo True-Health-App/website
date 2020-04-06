@@ -3,16 +3,17 @@
     <q-header elevated>
       <q-toolbar>
         <q-btn
-          flat
+          elevated
           dense
           round
           icon="menu"
           aria-label="Menu"
           @click="leftDrawerOpen = !leftDrawerOpen"
+          color="secondary"
         />
 
         <q-toolbar-title>
-          True Health
+          True Health App
         </q-toolbar-title>
 
         <div>
@@ -33,10 +34,10 @@
           header
           class="text-grey-8"
         >
-          Essential Links
+          
         </q-item-label>
-        <EssentialLink
-          v-for="link in essentialLinks"
+        <MainMenu
+          v-for="link in menuLinks"
           :key="link.title"
           v-bind="link"
         />
@@ -50,13 +51,15 @@
 </template>
 
 <script>
-import EssentialLink from 'components/EssentialLink'
+// import EssentialLink from 'components/EssentialLink'
+import MainMenu from 'components/MainMenu'
 
 export default {
   name: 'MainLayout',
 
   components: {
-    EssentialLink
+    // EssentialLink,
+    MainMenu
   },
 
   data () {
@@ -101,7 +104,61 @@ export default {
           link: 'https://facebook.quasar.dev'
         }
       */ 
-      ]
+      ],
+      menuLinks: [
+        {
+          title: "Home",
+          caption: "https://TrueHealth.app",
+          icon: "explore",
+          link: "/"
+        },
+        {
+          title: "About Us",
+          caption: "https://TrueHealth.app/AboutUs",
+          icon: "people_outline",
+          link: "/about"
+        },
+        {
+          title: "Contact Us",
+          caption: "https://TrueHealth.app/ContactUs",
+          icon: "contact_mail",
+          link: "/contact"
+        },
+        {
+          title: "GitHub",
+          caption: "https://TrueHealth.app/GitHub",
+          icon: "forum",
+          link: "/gitHub"
+        },
+        
+        /*
+        monetization_on
+        {
+          title: "Login",
+          caption: "https://TrueHealth.app/Login",
+          icon: "lock_open",
+          link: "/login"
+        },
+        {
+          title: "Photos",
+          caption: "https://TrueHealth.app/Photos",
+          icon: "insert_photo",
+          link: "/photos"
+        },
+        {
+          title: "Settings",
+          caption: "https://TrueHealth.app/Settings",
+          icon: "settings",
+          link: "/settings"
+        },
+        */ 
+        {
+          title: "Video",
+          caption: "https://TrueHealth.app/Video",
+          icon: "video_library",
+          link: "/videos"
+        }
+      ],
     }
   }
 }
