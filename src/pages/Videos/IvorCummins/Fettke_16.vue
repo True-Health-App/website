@@ -1,714 +1,371 @@
 <template>
-  <q-page class="fit flex flex-center column" padding style="flex-wrap: nowrap">
-    <h4 class="q-ma-xs">Dr. Gary & Belinda Fettke Podcast #16</h4>
-    <h5 class="q-ma-sm">
-      Interview by:
-      <a href="https://www.youtube.com/channel/UCPn4FsiQP15nudug9FDhluA" target="_blank">Ivor Cummins</a>
-    </h5>
-    <div class="iframe-container">
-      <iframe
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        frameborder="0"
-        src="https://www.youtube.com/embed/p0VwjsZJmYo"
-        width="100%"
-      ></iframe>
-    </div>
-    <div class="q-ma-md" style="overflow: auto">
-      
-      Ivor: 00:00 We're here at low carb universe and me Orca. And as you can
-      see, the beautiful backdrop behind us, but we're still working
-      hard. Don't worry about that. And I meeting with this morning
-      with a doctor, Gardy Fatca. I'm Belinda Fatca who have a very
-      interesting story to tell. So delays to Meta game. Gary, I'll have a
-      Linda, thank you for having us. Oh my pleasure. Absolutely. And
-      you have a fascinating story. We'll kind of two stories. First your
-      persecution on exoneration and then you get home to the
-      fascinating kind of background of where all the dietary
-      guidelines guidelines came from and why ultimately you got
-      into trouble. So maybe, yeah, maybe Gary if you start with that.
-      Well,
-      Dr. Gary Fettke: 00:40 a lot of people already know. My story is very similar to Tim
-      Noakes. Uh, going back several years I started challenging
-      hospital food and particularly the amount of sugar that was
-      given to my patients. And I, I look, I'm an orthopedic surgeon in
-      Tasmania for many years I've been looking after the
-      complications of diabetes and particularly foot ulceration. So
-      I've been shopping toes off, chopping legs off for for a couple of
-      decades. And ultimately you get sick and tired of it. So I looked
-      at prevention and quite clearly sugar became the number one
-      problem. So I started questioning the amount of sugar my
-      patients who are getting in hospital. And to this day, if you've
-      got diabetes and hospital, it's still recommended that you get to
-      three desserts per day. So I said, look, this is crazy. This is
-      ridiculous. And I started questioning that in the process of
-      questioning the sugar in the hospital, in the hospital, food and
-      junk food in the hospital.
-      Dr. Gary Fettke: 01:33 I started questioning the quality of hospital food and we all
-      know hospital food is lousy and can be improved. So that
-      incurred the wrath of the Dietitians in the hospital and uh, over
-      a period of time, ultimately I ended up getting reported to the
-      medical board for being dangerous for recommending anti
-      sugar and low carb, um, and the medical. And then I
-      subsequently got reported again by another Dietitian for
-      inappropriately climbing to reverse reverse someone's diabetes,
-      which I'm guilty of it. Okay. We did reverse his diabetes and
-      only came off five medications, lost 20 kilos and all of that. So,
-      and then there was a third notification to the medical board,
-      which ultimately got dismissed. But the first two were taken
-      very seriously and over a couple of years, two and a half years, I
-      was investigated. And a decision was made against me to say
-      that I'm not allowed to advise my patients as an orthopedic
-      surgeon to reduce their sugar intake even, even if it was shown
-      to be best practice.
-      Dr. Gary Fettke: 02:35 And that was a decision that was made lifelong and non
-      appealable. Uh, so obviously, um, you know, once you see the
-      results of low carb for your patients, you can unseat them. So
-      I've never stopped talking about it. And if, and, and with the
-      support of Belinda with her research and with the support of
-      social media and the community, we've kept on challenging that
-      and it's involved to Senate inquiries at a national level. It's
-      involved the national ombudsman and after two more years of
-      appealing, it might not appealable decision. It's crazy. We can
-      go to the supreme court, like they couldn't use the judicial
-      system to appeal it, but we could go to the national health
-      ombudsman to see if there's a problem with the process. That
-      was all she could rule on and she couldn't, she couldn't say. So
-      we showed that there were problems in the process, which
-      clearly there were, and Belinda will allude to those and
-      ultimately was sent to an independent medical board. And I
-      looked at it for six weeks and I tossed it all out and said, this is
-      ridiculous. Not alleged side that I wasn't guilty of anything.
-      They've actually apologized. Now that's uh, that's, uh, almost
-      unheard of that they actually get an apology from the medical
-      board. But ultimately we lost five years of being dragged
-      through the system. And in that timeframe, my lecturing, the
-      students was taken away. My research was curtailed and we've
-      been stuck in that limbo. But in the same timeframe, we've also
-      been, you know, going forward to the public.
-      Ivor: 04:13 Yeah, well, it's an incredible job to have gone through all that.
-      Both of you actually, obviously it's your shared, the experience,
-      so to speak. It was all particularly malicious because I noted at
-      the time, which was incredible. They said that even if the
-      science advanced and you were proven to be correct, you
-      would still remain banned for life from speaking. That's a
-      bizarre,
-      Dr. Gary Fettke: 04:35 it was completely bizarre. I don't know, obviously I questioned
-      that and that's one of the things which the national ombudsman
-      was actually to hang on cause she said even she said, hang on
-      this, this is a, how can you make, how can you, because so many
-      things I say that science evolves by being challenged, not by
-      being followed. And you know, that's not the bottom of my
-      emails. I mean that's my, my mantra. So we have to keep
-      evolving and our knowledge and there are things we do today
-      which are going to be shown to be wrong in the, in the future as
-      I had been the past. And so, uh, it was, it was a dumb ruling and
-      you know, and thank goodness, common sense, spiteful and it
-      was their undoing. Really.
-      Ivor: 05:22 Yeah. It's like, it was amazing to me and I, and I've seen a lot of
-      corruption in this whole sphere, obviously like yourselves, but,
-      but that one struck me as bizarre. The thought crossed my mind
-      as well. That's kind of implicating them, uh, in the sense. So it
-      did turn out to be and how we got here then as the older
-      parents of the story. So you're exonerated and it's a huge shot
-      in the arm for people all over the world trying to promote
-      healthier food like noax exoneration, yours and adult
-      [inaudible].
-      Dr. Gary Fettke: 05:53 It's literally mine was the last case to be closed. And so
-      therefore I know that it's pretty well open. The flood gates, I
-      mean I've been contacted by hundreds of doctors who have
-      said, actually, we feel safe now to go, go ahead with this and
-      talk about it. And so therefore it has opened the door and it
-      now can become best practice in diabetes management with
-      can become,
-      Belinda Fettke: 06:16 he says it can become, but you look on our dietary guidelines
-      and you look at the Dietitians Association of Australia, which is
-      our peak nutrition body. Yeah. And they still calling low carb a
-      fad. So while the medical board has said yes, I think you can go
-      forward with this, I can't see a problem. The guidelines still a
-      rule books that are not going to allow it to move forward. So,
-      Dr. Gary Fettke: 06:38 and that is a great segue into how did we get here with these
-      absurd guidelines. They quite frankly conflict with the science at
-      this point. There's no question. Well let's, let's take a snapshot
-      of time now, which is if we look at, we've got an obesity
-      epidemic, we've got an a health crisis on the planet right now.
-      You can see that walking down the street and so we've hadn't
-      placed dietary guidelines for a long period of time. And one of
-      the arguments is that we don't follow the dietary guidelines.
-      Well we know we do. If you look at the last 40 50 years of data
-      out of the u s out of Australia, out of the UK, we have in fact
-      increased their cereal in grains. We've decreased our meat and
-      particularly a red meat consumption. We've done that. So the
-      current dietary guidelines are serial based, grain based, anti
-      meat and dairy and rapidly becoming Vegan.
-      Dr. Gary Fettke: 07:33 So let's, that's the food pyramid. That's really what's being
-      promoted and, and guess what? It hasn't worked. So therefore
-      we've looked to say, look, and obviously low carb healthy fat
-      living is not the food pyramid. So if we accept the fact that the
-      dietary guidelines now have been a complete and utter failure
-      and have since the McGovern report and the introduction of the
-      Diet, the American dietary goals, then we've gone back to see
-      how come we've gotten to this situation because Belinda said,
-      we're talking, you know, we're all going blue in the face talking
-      about this and blend has gone. Well, hang on guys. Why? Why
-      are we being obstructed? Why have I been obstructed? It's got
-      to be in those dietary guidelines. But more importantly, what's
-      influencing them? Turns out that that's, that's the segue in
-      whatever we're doing at the moment isn't working. I'm
-      challenging that. What am I challenging the guidelines or am I
-      challenging the vested interests? And as it turned out, it's the
-      vested interest that had been blocking myself and others in this
-      whole process.
-      Belinda Fettke: 08:36 And I think that, I guessed that it could well be the sugar
-      industry in Australia. We have a very large sugar and wheat
-      industry. So we sort of thought, okay, they're really unhappy
-      about that. So I thought it was a vested interests and, but when
-      I started looking deeper, it was really fascinating. Everyone sort
-      of gotten stuck in his 1977 the change to the low fat guidelines.
-      But I just kept going back and it was fascinating all the way back
-      to, um, what I've, what I've come to understand is it's the
-      evolution of the, so the evolution of our plant based dietary
-      guidelines have come from the two arms of the temperance
-      movement, which sounds really bizarre going all the back to the
-      18 hundreds and in prefacing this conversation, I think it's really
-      important to say that I'm not anti religion in any way.
-      Belinda Fettke: 09:25 Um, going down and finding some very strong religious
-      influences on our dietary guidelines was just something I never
-      expected to find. Um, so I'm not anti religion and I'm not anti
-      vegetarian or Vegan. Even. I think people have the right to a
-      choice in whether that's cultural, ethical, or religious ideology.
-      They have that ability to have that choice in our current society,
-      I would think, and certainly from me, but as I've gone through
-      and looked at their influence, the influence of vested interest
-      and religious ideology on our dietary guidelines, and particularly
-      the evolution of the plant based, which is I believe a Vegan, um,
-      doctor guidelines, they've taken away my choice and they've
-      taken away your choice and they've taken away society's choice
-      to eat meat. And it's bizarre. You think? I thought Gary was in
-      trouble for talking about sugar and cereal, but it was actually,
-      he was in trouble for advocating animal protein and animal fats.
-      Ivor: 10:26 Right. And this story, and I'm broadly familiar with the build, the
-      viewers may not be, it goes back literally to the 18 hundreds if
-      you do proper detective work, which no one really house, it's
-      evil Linda, except Belinda. Can I just say though,
-      Belinda Fettke: 10:41 I'm a racist southern. Um, there's a young guy in, in America,
-      um, race southern has done a lot of research into specifically
-      the seventh day Adventist church dieticians on the dietary
-      guidelines and stuff from about the 1950s a lot of my research I
-      got from him, so I'm not the only person, but he hadn't realized
-      the medical influences. He was specifically Dietitians, but he
-      gave me an amazing segue into, into going back, but I then went
-      back even further because I found that the introduction of the,
-      well, the formation of the American Dietetic Association was
-      founded by a seventh day Adventist. So you're going even
-      further back, but he'd certainly found a lot of information from
-      the 1950s
-      Ivor: 11:28 all right, great. So if we go to the, the origins of the origin, the
-      hundreds, yeah,
-      Belinda Fettke: 11:35 yeah.
-      Ivor: 11:35 Where it really began, this influencing force that, that I guess
-      grew over the century and became more and more organized
-      and more and more modern and subtle in its actions. It started
-      in the late 18 hundreds with the certain lady. I think
-      Belinda Fettke: 11:51 it actually started right the beginning of the 18 hundreds with a
-      guy called Silvester Graham. And you may have heard of
-      Graham crackers and Graham flour and all those, they will all to
-      stop people being stimulated by caffeine and alcohol and
-      cigarettes and meat. And they believed there was a scientific
-      and political and religious, um, rationale for vegetarianism. So
-      he was the health reformers of the early 18 hundreds where the
-      start of this rationale, western vegetarianism, vegetarianism is
-      completely different to eastern vest vegetarianism. That's Gary
-      will explain that.
-      Dr. Gary Fettke: 12:25 Well used to be determined is based upon a cultural respect for
-      where the animal sits within the whole food cycle. And it even
-      at eastern vegetarianism they will eat some animal produce and
-      then when the animal gets old aisle, you know, for a lot of
-      religions they will actually eat the animal, but it's done in a
-      respectful way. And so eastern vegetarian is built on centuries
-      of care for the soil environment like it and the whole picture.
-      Whereas Western vegetarianism really only goes back to the
-      early 18 hundreds and it's purely nice people. Yeah. To, to, to
-      quill last bit they're lost and it seems strange, but that's what it
-      is. And then that's evolved into one group, which was the
-      founding founders of the Baptist Church. Um, and then
-      struggling,
-      Belinda Fettke: 13:16 they brought those principles of, so it wasn't just stimulants of
-      again, um, caffeine and alcohol and cigarettes, but they believe
-      one of the biggest stimulants in our life was meat and it actually
-      became t church doctrine to not eat meat to Stuart bays or
-      passions. And the most heinous sin of all was masturbation. So
-      this is where serials came from. The cereal industry was burst
-      from this belief that we that to try and find ways for people to
-      have, um, uh, protein and different things in their body to, to
-      get rid of meat.
-      Ivor: 13:56 Right. Because miss was seen and I think the, the, the origins of
-      the words, I mean, Karna meet carnal. There's a lot of negative
-      connotations in history and I guess they really jumped on that
-      and saw it has a really big negative influence on is the society
-      like alcohol or our tanks
-      Belinda Fettke: 14:17 mate was masturbation. That her very first, her entire book, her
-      first book was all, it was a solemn appeal to mothers and how to
-      stop your child masturbating on. The biggest thing was not to
-      put meat on their table and I segwayed. It's sort of differently in
-      my talks. I really came back and, and talk about the timber to
-      movement and, and worked out ways because John Harvey
-      Kellogg is obviously someone we recognizes, a person involved
-      with the cereal industry and he and his brother developed the
-      flight to cereal, but it was so then I said, well yeah, why? Why
-      was he so intent on developing peanut butters and that made
-      analogs and all of these other things. He was at temperance
-      health reformer and he was a devout seventh day Adventist. So
-      you bring those things down and you think will the, we've got
-      Kellogg's corn flakes from an anti masturbation crusade. Good.
-      Poor old John Harvey Kellogg. Yeah. He's a brilliant individually
-      in see greatness in the medical pathway, medical education
-      reform. That's she patients on food and exercise equipment.
-      But there's a 12 year old,
-      Dr. Gary Fettke: 15:24 he was invited into the white family and he was type setting
-      these doctrines. He was type setting, as a twelve year old, the
-      real cause of masturbation...
-      Belinda Fettke: 15:35 And that the effect of masturbation was as bad as inwardly
-      decaying ahead and also like her, her book was horrific. If you
-      read all the things that masturbation could do to you. And he
-      was 12 years old when he was type setting these books, and
-      type set for the next, you know, he type set for years for them
-      and wrote or he was actually editing and doing things. So
-      there's no wonder by the time he grew up to become a doctor,
-      he had very strong ideas on how bad masturbation was.
-      Dr. Gary Fettke: 16:06 Following on from that, we, we should state that the weird
-      things are now, is it the latest church is the second biggest
-      educator in the world after the Catholic Church and they are
-      primary schools, secondary schools, universities, but they pretty
-      well started the dietetics education of the world. They wrote
-      the textbooks for the first 30 years, heavily involved in the
-      textbooks, nursing and medicine. They still own 60 publishing
-      houses and they're pretty well.... And as I said to you recently
-      that I've had 6.4 billion downloads of their podcasts in 2016...
-      Ivor: 16:42 now I'm, I was struck by that figure because I mean, it puts Joe
-      Rogan to shame, but 6.4 billion downloads just gives an idea of
-      the influence that's occurring. And I think the financials of this -
-      this whole organization that are influencing in so many ways,
-      their financials are quite stunning too - across the world aren't
-      they...
-      Dr. Gary Fettke: 17:06 They own pretty well - they are so involved in the food industry
-      horizontally and vertically. Uh, acknowledging the, only about
-      eight weeks ago, the senior members of the Adventist Church
-      published an article in journal called religion acknowledging
-      virtually everything we're talking about now. So this is not,
-      they're not hiding it then actually not upset by it. They're
-      actually proud of what they've been able to achieve. And so
-      they are, they are the originators of nutrition science. They have
-      been heavily involved in our nutritional guidelines since the
-      beginning because the American Dietetics Association was
-      formed in October, 1917 by Linda Cooper who wrote these
-      textbooks. She worked with John Hart for John Harvey Kellogg.
-      She was an Adventist and a vegetarian and a vegetarian at that
-      time actually turns out you were Vegan. The term Vegan didn't
-      turn up until...
-      Belinda Fettke: 18:00 Vegan wasn't coined until 1944. The Adventist church doctrine
-      was based on the garden of Eden. They were young Earth
-      creationists. And so the garden of Eden was um, fruits, nuts,
-      vegetables and saves and so that was all. So there's no history in
-      hunter gatherer. There's no place in their history of, there's no
-      evolution, there's no place in history for meat. So they truly
-      believe this is what we should be eating. And
-      Dr. Gary Fettke: 18:29 so the eating of meat is almost an aberration. It's humans going
-      a bit crazy. Yes. And driving further craziness and self abuse. It's
-      ....I didn't know any of the story obviously before you dug it all
-      up and the other guy, whoever. But I was aware that in the
-      McGovern commission there was a very influential young
-      person who was a vegetarian. I was aware of that fact and I
-      suspected that - because vegetarian or particularly Vegan
-      people are extremely motivated ideologically, whereas the
-      average person is not, I was always guessing they were
-      disproportionately represented in guidelines, bodies and
-      anywhere where they could influence, which is okay, I would do
-      that if I was ideologically motivated. But I think it's just so much
-      more huge than we thought
-      Dr. Gary Fettke: 19:16 They've been working their way up through the system for a
-      hundred years.
-      Belinda Fettke: 19:21 And can I say when they, a lot of their ideas are amazing. Like it
-      really is. It's about rest and exercise and a whole lot ... sunlight
-      and community and the anti-alcohol, cigarettes and stimulants.
-      But what's really fascinating is how they've moved together. So
-      as I say that, the two forms of the temperance movement, one
-      was the health reformer ones which is the anti-meat group, but
-      they've joined with the other temperance movement, which is
-      anti-alcohol and has spawned the sugar industry. So not, it
-      doesn't start the sugar, but it formed these industries of Coca
-      Cola and this ice cream Sundaes and chocolate and all those
-      other things. So this sweet...and also then putting the sweet
-      into the cereals, it allowed them to find a way to celebrate as
-      family's and big communities and whatever else - and not
-      having alcohol. So the Soda Fountains were called the new
-      American bar. It was an ally of temperance. So the food industry
-      that was creating the sugar and the, and the food industry from
-      the Seventh Day Adventists that we're all aligned with the
-      vegetarian substitutes of meat - just match so beautifully
-      together - because the sugar gave shelf life to the vegetarian
-      products. It doesn't help meat. So yeah, this is where it's all
-      interconnected. And Harvard University was the start of, um,
-      the nutrition foundation and the school of public health were all
-      started by food industry. So five food industries gave money to
-      this nutrition foundation, which was part of the Harvard School
-      of Public Health. And they worked with the Adventist church to
-      do the very first Adventist studies - because it suits both. They
-      grow together and even though they've got very opposing ideas
-      about things, the interconnection has just helped,
-      Dr. Gary Fettke: 21:18 ...and this has happened in all of human history. To be honest,
-      it, it seems bizarre what you described, but to be, to me it's
-      actually makes it makes complete sense because in human
-      history we've always had different sects and organizations who
-      have common goals, you know who get together even though
-      they might differ significantly on one or two things. So it kind of
-      all just came together throughout the 20th century that they
-      grew and grew and power and influence until labor kind of
-      embedded in all of the structures that the financially, to come
-      back to that the, the, the cereal industry 101 cereal companies
-      were formed in Battle Creek, Michigan, which is the home of
-      the Adventist church and over time we've effectively got
-      Kellogg's and all of their affiliates, but because they largely
-      owned by originally by the advantages and I have advanced
-      work for them, their tires, you can imagine 10% of the profits of
-      the cereal industry is going back into the church in Australia.
-      LNG white came to Australia and started a company called
-      Sanitarium, which is Australia's most trusted company.
-      Belinda Fettke: 22:30 She set up the entire church, but she also wanted to set up the
-      steel industry as church owned. So that was different. Kellogg's
-      was a seventh day Adventist and he started his own business,
-      but they actually came to Australia and set the feet into Skype
-      as a church.
-      Dr. Gary Fettke: 22:43 Yeah. And that Church owns the biggest cereal company in
-      Australia and they don't pay any tax, but they put it all back into
-      educating the community. So that's where the enormous
-      resources come from to create the billions of podcasts and
-      everything else. Because the profits are not being taken by
-      corporate executive types and shareholders to the church. But
-      they have this purpose, they believe clearly in what they're
-      doing. It's all plowed straight back into medical evangelism with
-      charity status. So it no tax,
-      Belinda Fettke: 23:21 there's no tax on Sanitarium and they make 462 different
-      products and they don't pay any tax. But
-      Ivor: 23:26 Sanitarium being the biggest cereal company in Australia. I
-      mean that, I guess I'm just coming back - they are very large
-      amounts of revenue, indeed - wow.
-      Dr. Gary Fettke: 23:38 But then they brought (the Adventist church) by Harry Miller,
-      brought uh, soil from Ida, fermented soy to the concept of soil
-      to the Western world. So that modern soy product, which is
-      that as an alternative to substitute. So we've got fake meat,
-      fake dairy, we've got infant formulas which are made
-      predominantly from Soy and developed the first infant soy
-      formula. So if you think about the massive impact of soy in the
-      food cycle and going all the way back to affecting our
-      agricultural practice, now we're plowing of soil to put in more
-      soybean that is actually all from the one group. So that whole
-      soy industry is paying ties back into the one church group. And
-      that's where the funding is. And all of this stuff is actually in
-      their annual reports. I mean, it's not, it's not hidden - significant
-      portions of it. And so you can actually read their annual reports.
-      They've got all the figures. And it talks about the industries they
-      actually own....
-      Ivor: 24:47 And I think that is a very important point because along with the
-      disclaimer, and I'll also echo that one, that vegetarian is fineI've many vegetarian friends. In fact, in our Irish medical group
-      we're setting up, um, we have a vegan psychiatrist, a doctor in
-      our group. So it's fine with not to try and influence the whole
-      world and the way we're discussing.
-      Belinda Fettke: 25:11 Yes. But the other is taking away choice. That's, that's the thing.
-      They're taking away a choice by developing these rule books
-      that silence my husband
-      Ivor: 25:22 exactly. The under obviously have I used the word corrupted,
-      but it is corrupted soy refined grains and infant formulas and all
-      the fake food that's having an enormous negative effect on the
-      world's health, even though they had good intentions. So this is
-      not like a conspiracy where it's, it's really on known like twin
-      towers or anything like that where it's really unknown what
-      happens. All of this is on the record, so we put links to it. It's all
-      historical. Just reality. Yeah.
-      Belinda Fettke: 25:54 And where it's going now is the concern
-      Dr. Gary Fettke: 25:58 those two arms have come together. And uh, so when you hear
-      the term exercise is medicine, which is a brand owned by Coca
-      Cola and has come down that whole pathway. So whenever you
-      hear the term exercise medicine, that's a victim into food
-      industries,
-      Belinda Fettke: 26:19 epistatic, Coca Cola, vice president in 1978, the international life
-      science institute. So they have got over 400 companies that are
-      food and pharmaceutical industries plus whatever else,
-      Kellogg's and Coca Cola nicely planted in there. And so this
-      exercise is medicine is being led by, it's driven by Coca Cola with
-      the entire LLC in the, in the background. So you can imagine
-      coca cola is coming this way.
-      Dr. Gary Fettke: 26:48 And on the other side of it, the new term is called lifestyle
-      medicine. So whenever you hear the term lifestyle medicine,
-      that's pretty well been set up started by the Adventist church.
-      Virtually everyone at the senior level over the last several years
-      is actually flowing from the advantage church
-      Belinda Fettke: 27:05 senior level in America, in Asia, in Australia, and the global
-      movement in, in the, um, Europe. I don't believe it's as heavily
-      influenced. So they're just seeing the movement as an amazing
-      thing and joining in. But it's promoting because
-      Dr. Gary Fettke: 27:22 lifestyle medicine, it's about eating well, sleeping will,
-      moving/exercise and community and bringing that together. But
-      it is actually when you listen carefully, dissect their message. It's
-      about veganism and it is, in fact when you go back to Australia it
-      was, it's actually owned,
-      Belinda Fettke: 27:43 The Institute Of lifestyle Medicine is owned by Sanitarium.
-      Sanitarium. Yes. Another circle we come back yet again. So they
-      put these things into this processed food industry....
-      Dr. Gary Fettke: 27:57 So we've got exercise medicine and lifestyle medicine coming
-      together and actually developing the medical curriculum for the
-      world. And as a result of that, we're seeing, it's already been
-      introduced in few universities in the United States and Loma
-      Linda...
-      Belinda Fettke: 28:15 ...Harvard University and South Carolina Greenville, which
-      Stephen Blair's involved with, and he's been funded by Coca
-      Cola in the past with the global energy balance network group
-      that's now defunct. So
-      Ivor: 28:32 these are "Seed universities" ideally expanding to to infiltrate, if
-      you will, all of medical education.
-      Dr. Gary Fettke: 28:40 And we've got lots of examples of where they're spreading out
-      into the South Pacific, into China, into my own Tasmanian, the
-      university, very core curriculum, which was part of what it was. I
-      didn't realize I, I tried on a landmine in 2014 when that was
-      actually being introduced as a test, the test run on the medical
-      students. And I came through and said, actually, that's all
-      nonsense. This is actually, you know, inflammation is caused by
-      sugar, carbs, and poly unsaturated oils,
-      Belinda Fettke: 29:14 ...and to shut him down even more then they brought "exercise
-      is medicine" as the trademark into our university. And they're
-      promoting that. Obviously everything is, you know, "diabetes is
-      cured by exercise as medicine". And I'm just going, oh my gosh.
-      So, so finding out all this has been incredible.
-      Dr. Gary Fettke: 29:30 It is absolutely incredible. And the thing is the union of
-      corporate power and state power is actually the definition of
-      fascism. I found that out recently, I never viewed it that way,
-      but that's the definition of fascism. Here interestingly, I'm not
-      saying it's fascism, but we have the allying of corporate power
-      and ideological kind of religious interests together, which
-      becomes extremely powerful because the huge revenues
-      coming in can be redirected towards changing the message,
-      changing the whole, the whole perception of everyone. So I'm
-      guessing now that people should really be aware of this and
-      begin to counter it and counter the fake-food culture that's
-      being generated.
-      Dr. Gary Fettke: 30:16 I think we know that there's a health issue on the planet
-      obesity, diabetes out of control. And we have an answer which
-      is healthy eating, eat fresh, local, seasonal food, which actually
-      turns out by definition to be low-carb, healthy fat. So we have
-      an answer. We have an antidote. So why isn't it being
-      promoted? Why isn't it becoming first line management? Well
-      now we know, we've always suspected it's food industry have
-      been involved but actually now know the mechanism of how
-      that's evolved and that the food guidelines is one, but the
-      industry is another, and they both have actually supported each
-      other. Not For 10 or 20 or 30 or 40 years. But for a hundred
-      years and then they build on this history that goes back for
-      previous 50 60 80 years to the early 1800's, and I call that
-      generational education. You believe what your teachers have
-      taught to you and your teachers before then. So as a result, this
-      is just become the norm.
-      Belinda Fettke: 31:18 And I can just tell you never upset a woman and pick on her
-      husband. He goes smoothly because look what's happening. All
-      of those things become revealed. Yeah. If they'd never gone off
-      to Gary and just if the medical board have just gone, this is a bit
-      silly it let's have a conversation. You know, we want you to get
-      off social media, whatever else. I've never have looked, but they
-      was so dogmatic and I just went, you know what? They're not
-      taking my husband down and I'm going to find out why.
-      Excellent
-      Dr. Gary Fettke: 31:48 Belinda. And you know, but that's often the way of dogmatists,
-      especially ideologically driven ones. And they will tend to react
-      very strongly when they're in any way threatened with Lego.
-      Say lucky they did. And with norcs as well. Looky. They did that
-      absurd accusation and now it has blown back on them and the,
-      Belinda Fettke: 32:07 that's what Russ Green found out. He found this exercise as
-      medicine. Like that's influenced Tim Noakes international life
-      science institute is that powerful one that seems to have
-      affected Tim Noakes but now we've brought in the fact that it's
-      not just that it's this as well and Tim was just like, oh my gosh,
-      now I understand why the Vegan movement was so anti what
-      I'm talking about. And yeah, I think it's so we have layers here of
-      marriages made in hell. It's actually over hundreds of years
-      creating a dysfunctional family. I did disease, but
-      Ivor: 32:40 there is one thing though the ILS, I might just call out. I had a
-      run in with people involved with the ILS cy and I wasn't aware of
-      them. I was involved in a debate and they found it afterwards
-      about the Ilsi from Belinda. Belinda, actually the message that
-      the time you tipped me off and I was amazed when I looked up
-      Ilsi, it was a think tank, which has always suspect started in
-      America, right around Washington or something, 78 you see a
-      think tank starting, you know that's cooperatives revenue kind
-      of stuff going on. It's just the way it is. But when you look at all
-      their directors and the industry side cover every cocacola and
-      Nestle Danone, I mean it's just a who's who, Kellogg's old cereal
-      guys and then you look at the other site directors from like
-      education and medicine and all these professors, every country
-      allied and I just looked and I said, whoa, that's exactly what I do.
-      If I had an interest to make what you are describing happen, of
-      course you would. Key opinion leaders, bring them in, get them
-      on board and talk about research and advancing health and it's
-      always eat, eat less. If you have a look at all of their programs
-      and carbohydrates and the gospel truth or eat less, move more.
-      It's the classic CECO calories in, calories out deception that Coca
-      Cola and all the food companies love.
-      Dr. Gary Fettke: 34:10 They do listen to them now it's exercise more, eat less.
-      Ivor: 34:16 That's what we've worked out. You know, it all z and the
-      religion. This is what it thereafter eat. Sorry, move more and eat
-      less meat. Now just to be clear that that is the certainly the
-      intent. That's not technically a phrase yet. No, no.
-      Dr. Gary Fettke: 34:34 Do you look for it? So I mean they're talking about meat tax Uzi
-      now it was a um, uh, uh, taking dietetic education into China.
-      They're writing the textbooks for Dietitians or dietetics for China
-      at the moment and medicine. So there's things to listen out for
-      it. Now that you know
-      Ivor: 34:55 specifically say it, less meet -they call it "plant based". But you
-      know, euphemisms are everywhere.
-      Dr. Gary Fettke: 35:01 When you hear the terms "plant based Diet." When you hear
-      the term "Vegan", when you hear the term "exercise as
-      medicine", when you hear the term "lifestyle medicine" OR
-      "ILSI" - just recognize that they have a history behind them,
-      which is actually based on ideology, ideology, which is now
-      intertwined with corporate vested interest. And it's not their for
-      our health, it might, it's advertised as such. And they believe in
-      it. We don't always agree it's a bit of marriage counseling - Ivor
-      intervene quick! But they believe it's for health. So in fairness
-      they, but health and salvation and that's the difference
-      Ivor: 35:43 mixture. That's always the problem. And, and in fairness, the
-      disclaimer is very important, not against religion, not against
-      these diets. However, the problem, the problem's who religion
-      historically for thousands of years, uh, often they've been great
-      ideas with good intentions, but certain dogmas then are what
-      have caused the issue over over centuries and millennia. And
-      here we're seeing, you know, a lot of what they're doing is for
-      the right reason. It's good stuff on. Unfortunately it's just
-      carrying with as a Trojan horse of something that's completely
-      irrational and anti scientific and that's being carried through.
-      Dr. Gary Fettke: 36:21 I think that's perfect. That's it. I just got up off to the wrong
-      start. So you know, occasionally you might drive up the highway
-      on the wrong side and sooner or later you'll work out that, hang
-      on, we've gotten, we're in trouble
-      Ivor: 36:36 or less. You get the whole world to switch the sides, which you
-      drive od, which it looks like what they're trying to do
-      Dr. Gary Fettke: 36:43 because I realized we're in trouble, but I actually think, you
-      know, there's this head on collision that's about to happen and
-      uh, if you, if we understand history, I mean I, I looked at her
-      aghast. I went, what? There's barriers either as a and then
-      before know, I know, but when you first read baby Gary first
-      haired, the stuff he's saying, hold on a minute. Are you sure he
-      come home from work and I go, you ain't funny, fun a fanned
-      out today. I spoke out about this at the crossfit games last year.
-      They killed conference in and I said to Belinda, I need to now
-      recheck all this before I'm going to say it out loud. He'd been
-      listening to me just believing me. And, and so I've got all the
-      references. So all that talk was completely referenced. But
-      before that we actually popped in and saw, I rang up Zoe
-      [inaudible].
-      Dr. Gary Fettke: 37:29 This is Zoe. I'm going to drag her in. I said, Zoe, can we come
-      and have a chat to you? So we traveled from Australia to Wiles,
-      uh, Zoe and Andy and Maraica sobers came up from Cape Town
-      and we sat there in their house for five days and said, are we
-      crazy? Can we just check it all with you? And so we had five
-      laptops going all cross referencing and they actually agree,
-      yeah, you're actually right. We're not making it up. And then the
-      talk was given, it's been acknowledged repeatedly since then by
-      members of the Adventist church. We've got a lot of exit
-      vendors to have come along and said, you're absolutely right.
-      They'd probably be my biggest supporters now. Like some of
-      the people who had contacted me the most and talk to me and
-      this, it just makes sense. I hadn't realized. And, and then, and
-      then in most recent times, this acknowledgement by the
-      Adventist church that what we're talking about is actually
-      completely relevant. So as we all move forward, it's just
-      important to know if someone comes to your table that what
-      hat they're wearing. Yeah. And I think in going forward, ideology
-      also needs to be discussed as a conflict of interest
-      Belinda Fettke: 38:36 in nutrition science because it's, it's having a huge influence.
-      Ivor: 38:40 I actually love that point, Belinda to so many important points
-      here. It's dizzying. But that one is huge in itself because an
-      ideological driver for, for a human being is much more powerful
-      than simply some extra money. True classic conflict of interest.
-      The coi is we see influencing Madison and there are studies on
-      this can sometimes on the amount to a few thousand dollars a
-      year and gifts to doctors I'm sure, but ideology is a much more
-      powerful driver of a human than any more than it comes from
-      the heart. And it's part of your, your essential intent. We used
-      to call it in management. Uh, but that's a huge point. Conflict of
-      interest should include if you have religious and ideological
-      beliefs that, that that clearly would affect your, your, your bias
-      towards certain,
-      Belinda Fettke: 39:29 this is where it is, you know, there's a huge conflict of interest
-      and it just needs to be acknowledged. And, uh, and I, in going
-      forward, if we are creating, I mean, do we need guidelines at all
-      but for sick people, if we're going forward and creating
-      guidelines, it needs, you know, we may need those people
-      who've got incredible experience in a Vegan Diet to be helping
-      write that part of the dietary guidelines, but acknowledging
-      them their beliefs and then people who want to talk about low
-      carb, we need to get those people in, not the people who have
-      got the Vegan interests doing the low carb. You know, it's, it's
-      about creating fairness I think.
-      Ivor: 40:06 And transparency, transparency, transparency above all where
-      everyone is as laid out in the table where they're coming from.
-      Yeah. Very good. Well, I think that's going to begin the
-      happening in the coming years. The race I've switch all of this
-      gets resolved is the debate. I think, I know talking to a Dr
-      Seinfeld about this a few times over the years, will it take
-      around 10 years to largely get more clarity, transparency and
-      good science or will it be faster with the growing low carb on
-      movement is quite rapid growth. We might close will now, what
-      do you think to reach a point where largely things are more
-      transparent and the general public have more of a grasp on
-      Dr. Gary Fettke: 40:49 hi, I'd like to think it's going to happen tomorrow, but it's going
-      to take a lot longer. I think there are so many forces out there
-      that we can't change the world we'd like to, but we can as
-      individuals make a decision about what we do this afternoon
-      and tomorrow we can do that for our families and that all of the
-      work we're doing is to support those people in want to make a
-      difference. And so yes, it, you know, it'd be nice to save the
-      world, but we're going to need to start with saving ourselves
-      first of all. Um, and a lot of the resources for this and the two
-      are billionaires put together just to let you know, and it's on the,
-      I support gary.com site so that we're making it all public. It's all,
-      I created a website
-      Belinda Fettke: 41:34 really annoyed Afra no doubt. I created a website saying I
-      support gay. And I've just started putting all these things up and
-      it's been really interesting. Like journalists have contacted me,
-      the u s right to know has recently contacted me. They wanted
-      to know about the cereal, um, documents that I've uncovered.
-      So it's quite fascinating creating a website that just supports
-      your husband is something they never expect.
-      Ivor: 41:56 It was Super Rubia and that's the beauty of the modern, you
-      know, Internet environment where, where people can fight
-      back with inflammation against misinformation. So, so that's a
-      fantastic platform. And I guess when we release this, I put the
-      links also. And I also think if we did, we mentioned this before, a
-      a nice kind of a family tree going back to the 1800 stills with the
-      key players and interconnections. Maybe that's, that's
-      something to be good to work with you on that. Excellent. We'll
-      do that for transparency. Oh, that's crazy. Not for going after
-      anyone for transparency and honesty. Did it. Great. Thanks.
-      Hey, fantastic job. Great job you guys. Thanks. Bye.
-    </div>
+  <!-- <q-page class="fit flex flex-center column" padding style="flex-wrap: nowrap"> -->
+  <q-page class="fit" padding>
+    <q-resize-observer @resize="onResize" />
+    <q-splitter :horizontal="!isLandscape" class="fit" v-model="splitterModel">
+      <template class="fit" v-slot:before>
+        <div class="flex flex-center column q-pa-lg">
+          <h4 class="q-ma-xs">Dr. Gary & Belinda Fettke Podcast #16</h4>
+          <h5 class="q-ma-sm">
+            Interview by:
+            <a href="https://www.youtube.com/channel/UCPn4FsiQP15nudug9FDhluA" target="_blank">Ivor Cummins</a>
+          </h5>
+          <div class="iframe-container">
+            <youtube @ended="ended" @paused="paused" @playing="playing" @ready="ready" video-id="p0VwjsZJmYo"></youtube>
+            <!-- https://youtu.be/p0VwjsZJmYo -->
+            <!-- <iframe
+              allow="accelerometer; autoplay; encrypted-media; gyroscope;picture-in-picture"
+              allowfullscreen
+              frameborder="0"
+              src="https://www.youtube.com/embed/p0VwjsZJmYo"
+            width="100%"></iframe>-->
+          </div>
+        </div>
+      </template>
+      <template v-slot:separator>
+        <div :class="isLandscape ? 'landscape' : 'portrait'" class="flex flex-center" id="pageSeparator">
+          <q-avatar color="primary" icon="drag_indicator" size="40px" text-color="white" />
+        </div>
+      </template>
+      <template v-slot:after>
+        <q-scroll-area class="fit" ref="transcript">
+          <!-- @mousedown="pause"
+            @mouseup="onTextChange" 
+          contenteditable="false"-->
+          <p class="q-pa-lg" ref="transcriptText">
+            <a href="https://google.ca" target="_blank">Welcome</a>
+            to the fat Emperor podcast I'm your host Ivor Cummins we're supported by the Irish heart disease awareness charity which advocates a simple CT scan to reveal your CAC score so know your score and take action to prevent that premature heart attack everything you need to know will be right here we're here at low carb universe and Miaka and as you can see the beautiful backdrop behind us but we're still working hard don't worry about that and I'm meeting with this morning with dr. Gary FATCA and Belinda FATCA who have a very interesting story to tell so delays to meet again Gary IVA Linda hi thank you for having us oh my pleasure absolutely and you have a fascinating story well kind of two stories first your persecution and exoneration and then we get on to the fascinating kind of background of where all the dietary guidelines came from and why ultimately you got into trouble so maybe yeah maybe Gary if you start with that what a lot of people already know my story is very similar to Tim Noakes going back several years I started challenging hospital food and particularly the amount of sugar that was given to my patients no I look from an orthopedic surgeon in Tasmania for many years I've been looking after the complications of diabetes and particularly foot ulceration so I've been shopping toes off chopping legs off for a couple of decades and ultimately he gets sick and tired of it so I looked at prevention and quite clearly sugar became the number one problem so I started questioning the amount of sugar my patients were getting in hospital and to this day if you've got diabetes in hospital it's still recommended that you get three desserts per day I mean it's how I said look this is crazy this is ridiculous and I started questioning that in the process of questioning the sugar in the hospital in hospital food and junk food in hospital I started questioning the quality of hospital food and we all know hospital food is lousy and can be improved so that incurred the wrath of the dieticians in the hospital and over a period of time ultimately I ended up getting reported to the Medical Board for being dangerous for recommending an T sugar and low carb and the medical and then I subsequently got reported again by another dietician for inappropriately claiming to Reverb reversed someone's diabetes which I'm guilty of okay we did reverse his diabetes only came off five medications lost 20 kilos and all of that so and then there was a third notification to the Medical Board which ultimately got dismissed but the first two were taken very seriously and over a couple of years two and a half years I was investigated and a decision was made against me to say that I'm not allowed to advise my patients as an orthopedic surgeon to reduce their sugar intake even even if it was shown to be best practice and that was a decision that was made lifelong and not appealable so obviously you know once you see the results of low carb for your patients you can't unsee them and so I've never stopped talking about it in the end and with the support of Belinda with her research and with the support of social media and the community we've kept on challenging that and its involved to Senate inquiries at a national level that's involved the national Ombudsman and after two more years of appealing my non appealable decision we couldn't go to the Supreme Court we couldn't use the judicial system to appeal it but we could go to the National Health Ombudsman to see if there was a problem with the process that was all she could rule on ER she couldn't rule she couldn't say that Gary could be so we showed that there were problems in the process which clearly there were Belinda will allude to those and ultimately it was sent to an independent Medical Board and they looked at it for six weeks and they tossed it all out and said this is ridiculous say that I wasn't guilty of anything they've actually apologized now that's a it's a almost unheard of that you actually get an apology from the Medical Board but you know ultimately we lost five years of being dragged through the system and in that time frame my lecturing the students was taken away my research was curtailed and we've been stuck in that limbo but in the same time frame we've also been you know going forward and to the public well it's an incredible job to have gone through all that both of you actually obviously it's to shared the experience so to speak it was also particularly malicious because I noted at the time which was incredible they said that even if the science advanced and you were proven to be correct you would still remain banned for life from speaking that's a bizarre it was completely bizarre and obviously I questioned that and that's one of the things which the National Ombudsman was actually to hang on because she said even she said hang on this this is a how can you make coconut because so many things you know I say that science evolves by being challenged not by being followed and you know that's on the bottom of my emails I mean that's my manta ray so we have to keep evolving in our knowledge and there are things we do today which are going to be shown to be wrong in the future yeah as they have in the past and so it was it was a dumb ruling and you know and thank goodness for comment I think you know it sounds spiteful and it was their undoing really yeah and it's like it was amazing to me and I've seen a lot of corruption in this whole sphere obviously like ourselves but but that one struck me as bizarre and the thought crossed my mind as well that's kind of implicating them in a sense so it did turn out to be and how we got here then is the other parent of the story so you're exonerated and it's a huge shot in the arm for people all over the world trying to promote healthier food like Noakes exoneration yours an adult quest in Sweden it's literally mine was the last case to be closed and so therefore I know that it's pretty well opened the floodgates I mean I've been contacted by hundreds of doctors who have said actually we feel safe now to go and go ahead with this and all about it and so therefore it has opened the door and it now can become best practice in diabetes management it can become he says it can become but you look on our dietary guidelines and you look at the dieticians Association of Australia which is our peak nutrition body and they're still calling low carb a fad so while the medical border said yes I think you can go forward with this I can't see a problem the guidelines still rule books that I'm not going to allow it to yeah it followed so and that is a great segue into how did we get here with such absurd guidelines that quite frankly conflict with the science at this point there's no question well let's let's take it a snapshot of time now which is if we look at we've got an obesity epidemic we've gotten it a health crisis on the planet right now you can see that walking down the street and so we've had in place dietary guidelines for a long period of time and one of the arguments is that we don't follow the dietary guidelines well we know we do if you look at the last 4050 years of data out of the u.s. out of Australia out of the UK we have in fact increased our cereal and grains we've decreased our meat and particularly our red meat consumption we've done that so the current dietary guidelines are serial based grain based aunty meat anti dairy and rapidly becoming vegan so let's that's the food pyramid that's really what's being promoted I love it and guess what it hasn't worked so therefore we've looked to say that an obviously low carb healthy fat living is not the food pyramid so if we accept the fact that the dietary guidelines now have been a complete and utter failure and have since the McGovern report and the introduction of the diet American dietary goals then we've gone back to see how come we've gotten to this situation because Belinda said we talk we know we're all going blue in the face talking about this and blenders gone we'll hang on guys why why are we being obstructed why have I been obstructed it's got to be in those dietary guidelines but more importantly what's influencing them and that that's that's the segue in whatever we're doing at the moment isn't working I'm challenging that what am i challenging the guidelines or am i challenging the vested interests and as it turned out it's the vested interests that have been blocking myself and others in this whole process and I think that I guessed that it could well be the sugar industry in Australia we have a very large sugar and wheat industry so we sort of thought okay they're really unhappy about that so I thought it was vested interests and but when I started looking deeper it was really fascinating everyone sort of gotten stuck in this 1977 and they changed to the low-fat guidelines but I just kept going back and it was fascinating all the way back to what I what I've come to understand is it's the evolution of the so the evolution of our plant based diet regard lines have come from the two arms of the temperance movement which sounds really bizarre going all the way to the 1800s and in professing this conversation I think it's really important to say that I'm not anti religion in any way going down and finding some very strong religious influences on our dietary guidelines was just something I never expected to find so I'm not anti religion and I'm not anti vegetarian or vegan even I think people have the right to a choice and whether that's cultural ethical or a religious ideology you know they have that ability to have that choice in our current society I would think and certainly from me but as I've gone through and looked at their influence the influence of vested interest and religious ideology on our dietary guidelines and particularly the evolution of the plant-based which is I believe a vegan diet regard lines they've taken away my choice and they've taken away your choice and they've taken away society's choice to eat meat and it's bizarre you think I thought Gary was in trouble for talking about sugar and cereal but it was actually he was in trouble for advocating animal protein and animal fats right and this story and I am broadly familiar with us well the viewers may not be it goes back literally to the eighteen hundreds if you do proper detective work which no one really has it's simple endure except Linda oh yeah I'm a race southern there's a young guy in in America with southern has done a lot of research into specifically the seventh-day Adventist Church dieticians on the Dietary Guidelines so from about the 1950s a lot of my research I got from him so I'm not the only person but he hadn't realized the medical influences he was specifically looking dietitians but he gave me an amazing segue into into going back but I then went back even further because I found that the introduction of the well the formation of the American Dietetic Association was founded by a seventh-day adventists so you're going even further back but he'd certainly found a lot of information from the 1950s all right great so if we go to the the origins of the origin the Ark in the eighteen hundreds yeah yeah where it really began this influencing force that that I guess grew over the century and became more and more organized and more more modern and and subtle in its actions it started in the late eighteen hundreds with certain lady I think and it actually started right at the beginning of the 1800s with a guy called Sylvester Graham and you're may have heard of graham crackers and gram flour and others they were all to stop people being stimulated by caffeine and alcohol and cigarettes and meat and they believed there was a scientific and political and religious rationale for vegetarianism so he was the health reformers of the early 1800s with a start of this rationale Western vegetarianism western vegetarianism is completely different eastern best vegetarianism that's Gary will explain that well it's vegetarian is based upon a cultural respect for it where the animal sits within the whole food cycle and even in eastern vegetarianism they will eat some animal produce and then when the animal gets old they'll you know for a lot of religions they'll actually eat the animal but that's done in a respectful way and so Eastern vegetarian is built on centuries of care the soil the environment like it and the whole picture whereas Western vegetarianism really only goes back to the early 1800s and is purely most people too to quell their last their lust and that it seems strange but that's what it is and then that's evolved until one group which was found in founders of the Adventists church and then they brought those principles of so it wasn't just stimulants of again caffeine and alcohol and cigarettes but they believe one of the biggest stimulants in our life was meat and it actually became Church doctrine to not eat meat to stir Vaser passions and the most heinous sin of all was masturbation so this is where cereals came from the Sirians she was birthed from this belief that we have that to try and find ways people have protein and different things in their body to to get rid of meat right because meat who've seen and I think the the origins of the words I mean Karen a meat carnal there's a lot of negative connotations in history and I guess they really jumped on that and thought has a really big negative influence on there's a society like alcohol or are things that means they could make was masturbation no whole her entire book her first book was all it was a solemn appeal to mothers and how to stop your child masturbating well the biggest thing was not to put meat on their table and in I segwayed it's sort of differently in my talk so I really came back and and talked about the term its movement and and worked out ways because John Harvey Kellogg is obviously someone we recognize as a person involved with the cereal industry and he and his brother who developed to flaked cereal but it was so then I said well you know why why was he so intent on devoting peanut butters and that made analogs and all of these other things he was a temperance Health reformer and he was a devout seventh-day Adventists so you bring those things down and you think well that we've got Kellogg's cornflakes from an anti masturbation crusade but poor old John Harvey Kellogg yeah he was a brilliant individually in a sheave greatness in the medical pathway medical education medical reform but 30 patients on food and exercise equipment but there's a 12 year old he was invited into the white family and he was typesetting the these doctrines he was typesetting as a twelve-year-old these causes masturbation and and the the effect of masturbation was as bad as inwardly decaying her head and also her her book was horrific if you read all the things that masturbation could do to you and he was twelve years old when he was typesetting these books well and so it was it for the next you know he types it for four years for them and wrote or he was actually editing and doing things so there's no wonder by the time he grew up to become a doctor he had very strong ideas on how bad masturbation was following on from that we should state that the where things are now is that the latest church is the second biggest educator in the world after the Catholic Church and our primary school secondary schools universities but they pretty well started the Dietetics education of the world they wrote the textbooks for the first thirty years and heavily involved in the textbooks of nursing and medicine they still own sixty publishing houses and that pretty well and as I've said to you recently that have had six point four billion downloads of their podcasts in 2016 now I I was struck by that figure because I mean that it puts Joe Rogan's to shame but it six point four billion downloads just gives an idea of of the influence that's occurring and I think the financials of this this whole organization that influencing in so many ways their financials are quite stunning to across the world are late well again they own pretty well so involved in the food industry horizontally and vertically acknowledging that only about eight weeks ago [Music] the senior members of the event start achill in general called religion acknowledging virtually everything we're talking about now so this is not they're not hiding it then actually not upset by they're actually proud of what they've been able to achieve and so they are they are the originators of nutrition science they have been heavily involved in their nutritional guidelines since the beginning because the American Dietetics Association was formed in October 1917 by Leonard Cooper who wrote these textbooks she worked with John Hart for John Harvey Kellogg she was an Adventist and a vegetarian and a vegetarian at that time actually turns out you were vegan the term vegan didn't turn up - was it coined - 1944 so the Adventist Church doctrine was based on the Garden of Eden they're young earth creationists and so the Garden of Eden was fruits nuts vegetables and seeds and they so that was all so there's no history in HoN together there's no place in their history of there's no evolution but there's no place in history for meat so they truly believe this is what we should be eating and hey guys just a quick break to remind you to this podcast is only possible due to funding from the Irish heart disease awareness charity and its founder David barber David discovered he had massive heart disease in 2012 and could only do so by getting a five-minute calcification scan and CAC score it enabled him to take action to stop the disease process and to save his own life now he is spending millions to help others do likewise all we ask is to help get the message out on the power of CAC watch the Widowmaker movie linked at the end of this podcast and share it as widely as you can thank you and now we return to the conversation so the eating of meat is almost it's an aberration it's humans going a bit crazy and driving further craziness and self-abuse yeah it's a man and I think just in terms of veg I didn't know any of this story obviously before you do get all up and the other guy whoever but I was aware that in the McGovern Commission there was a very influential young person who was vegetarian I was aware of that fact and I suspected that because vegetarian are particularly vegan people are extremely motivated ideologically whereas the average person is not I was always guessing they were disproportionately represented in guidelines bodies and anywhere where they could influence which is okay I do that if I was ideologically motivated but I think it's just so much more huge than we thought they've been working their way up through the system for a hundred years and can I say when they a lot of their ideas are amazing like it really is it's about rest and exercise and a whole lot surviving sleep a community and a community and the anti alcohol cigarettes and stimulants but what's really fascinating is how they've moved together so I say that the two forms of the temperance movement one was the health reformer ones which is the anti meat group but they've joined with the other temperance movement which is anti alcohol and has warned the sugar industry so not it doesn't start sugar but it formed these industries of coca-cola and ice cream sundaes and chocolate and all those other things so this sweet and also then putting the sweet into the cereals it allowed them to find a way to celebrate his families and be communities and whatever else I'm not having alcohol so these soda fountains were called the new American Bar yeah it was an ally of temperance so the food industry that was creating the sugar and the fur and the food industry from the seventh-day adventists that were all aligned with a vegetarian substitutes of meat just match so beautifully together because the sugar gives shelf-life to the vegetarian products it doesn't help meat so you know this is where it's all interconnected and Harvard University was the start of the nutrition foundation and the School of Public Health were all started by food industry so five fruit industries gave money to this Nutrition Foundation which was part of the Harvard School of Public Health and they worked with the Adventist Church to do the very first event of studies because it suits both yeah they grow together and even though they've got very opposing ideas about things the interconnection and and has just helped and this has happened in all of human history to be honest it it seems bizarre what you described but to me to me it's actually makes it makes complete sense because in human history we've always had different sects and organizations who have common goals you know who get together even though they might differ significantly on one or two things so it kind of all just came together throughout the 20th century that they grew and grew and power and influence until they were kind of embedded in all of the structures yeah and so financially to come back to that the the the cereal industry 101 cereal companies were formed in Battle Creek Michigan which is the home of the Adventists Church and over time we've effectively got Kellogg's and all of their affiliates but because they're largely owned by originally by the Adventists and they have Adventists work for them they're tired so you could imagine 10% of the profits of the cereal industry is going back into the church in Australia ellen terry white came to australia and started a company called sanitarium which is australia's most trusted company she set up the entire church but she also wanted to set up the cereal industry as a church owned so that was different Kellogg's was a cemetery vendor Stanley started his own business but they actually came to Australia and set the food industry with one of the Koch brothers and that church owns the biggest cereal company in Australia and they don't pay any tax but they put it all back into educating the community so that's where the enormous resources come from to create the billions of podcasts and everything else because the profits are not being taken by corporate executive types and shareholders they came back to the church but they have this purpose they believe clearly in what they're doing oh and so it's all it's all ploughed straight back into medical evangelism with where charity starters so in no tax the wall tiles there's no tax on sanitaire and they make 462 different products and they don't pay any check but sanitarium being the biggest serial company in Australia I mean that I guess I'm just coming back did they're very large amounts of revenue indeed this Wow but then they brought the Adventist Church by by Harry Miller brought soy from Asia the method saw to the concept of soy to the Western world so that modern soy product which is saw that as an alternative to have made substitute so we've got fake meat fake dairy we've got infant formulas which are made predominantly from soy Kerry Miller and so if you think about the the massive impact of soy in the food cycle and going all the way back to affecting our agricultural practice now you know they're plowing of soil to put in more soybean that is actually all from the one group so that whole soy industry is paying tithe back into the one church group and that's where their funding is and that all of this stuff is actually in their annual report somewhere it's not it's not hidden but as significant portions of it and so you can actually read their annual reports think it's got all the figures and it talks about the industries they actually own but and I think that study is a very important point because along with the disclaimer and I'll also echo that one that vegetarian is fine of many vegetarian friends in fact in our Irish Medical Group were setting up we have a vegan psychiatrist a doctor in our group so it's fine but not to try and influence the whole world in the way we're discussing but the other it's taking away a choice that's that's the thing they're taking away a choice by developing these rule books that silence my husband that exactly and that obviously have I used the word corrupted but it is corrupted soy refined grains and infinite formulas and all the fake food that's having an enormous negative effect on world's health even though they had good intentions so this is not like a conspiracy where it's it's really unknown like Twin Towers or anything like that where it's really unknown what happens all of this is on the record so we put links to it it's all historical just reality yes where it's going now is the concern so those two arms have come together and so when you hear the term exercises medicine which is a brand owned by coca-cola and it's come down that whole pathway so whenever you hear for the term exercise medicine that's effectively the food industry's started by coca-cola vice-president in 1978 the International Life Science Institute so they have got over 400 companies that are food and pharmaceutical industries plus whatever else Kellogg's and coca-cola that nicely planted in there and so this exercises medicine is being led by that's driven by coca-cola with the entire LZ in the in the background so you can imagine Coca Cola's coming this way and on the other side of it the new term is called lifestyle medicine so whenever you hear the term lifestyle medicine that's pretty well been set up started by the Adventist Church virtually everyone at the senior level over the last several years has actually found from the Adventist Church senior level in America in Asia in Australia and the global movement in in the Europe I don't believe it's as heavily influenced so they're just seeing the movement as an amazing thing and joining in but it's promoting because it but it sounds great lifestyle medicine is about eating well sleeping will moving exercising and and community and bringing that together but it is actually when you listen and carefully dissect their message it's about veganism and it is in fact when you go back Australia that was it's actually owned oh shoot of lifestyle medicine is owned by sanitarium sanitarium yes another circle we come back yes so they put these things into this processed food industry has yeah but we're at now is we've got exercises medicine and lifestyle medicine that coming together and actually developing the medical curriculum for our face of the world and as a result of that we're seeing it's already been introduced in few universities in the United States Loma Linda which Adventist University Harvard University and South Carolina Greenville which Stephen Blair's involved with and he's been funded by coca-cola in the past with the global energy balance Network group that's now defunct so these are seed universities ideally expanding to to infiltrate if you will all of medical education yes and they already are and we've got lots of examples of where they're spreading out into the South Pacific into China into my own Tasmanian University medical curriculum which was part of what I was I didn't realize I'd tried on a land mine in 2014 when that was actually being introduced as a test the test run on the medical students and I came through and said actually that's all nonsense this is actually you know inflammation is caused by sugar carbs and polyunsaturated oils and to shut him down even more then they brought exercise is medicine as the trademark into our University and they're promoting that obviously so everything is you know diabetes is cured by exercise as medicine and I'm just going oh my gosh so so finding out all this has been incredible it is absolutely incredible and the the thing is the union of corporate power and state power is actually the definition of fascism just I found that out recently I'd never viewed it that way but that's the definition of fascism I had here interests me I'm not saying it's fascism but we have the a lying of corporate power and ideological kind of religious interests together which becomes extremely powerful because the huge revenues coming in can be redirected towards changing the message changing the holes the whole perception of everyone so I'm guessing now that people should really be aware of this and begin to counter us and counter the fake food culture that's being generated we know that there's a health issue on the planet you know basically diabetes aren't role and we have an answer which is healthy eating eat fresh local seasonal food which actually turns out by definition to be low carb health effect so we have an answer we have an antidote so why isn't it being promoted why isn't it becoming first-line management well now we know we've always suspected it some food industry of being involved but actually we now know the mechanism of how that's evolved and that the Kombi you know the food guidelines are one but the industry is another and then both of actually supported each other not for 10 or 20 or 30 or 40 years but for a hundred years and then build on this history that goes back for previous 50 60 80 years to the early 1800s so our whole and I call that generational education you believe what your teachers have taught you and your teachers before them so as a result this has just become the norm and I can just tell you never upset a woman and pick on her husband absolutely because look what's happened all of this has become revealed yeah if they'd never gone after Garry and just if the Medical Board have just gone this is bit silly let's have a conversation you know we want you to get off social media or whatever else I never have looked but they were so dogmatic and I just went you know what they're not taking my husband down and I'm gonna find out why excellent Belinda and you know but that's often the way of dogmatists especially ideologically driven ones that they will tend to react very strongly when they're in any way threatened but like you say looki they did and with Noakes as well lookey they did that absurd you know accusation and now it has blown back on them and you know Russ green found out he found this exercise as medicine like that's influenced Tim Noakes International Life Science Institute is that powerful one that seems to have affected Tim Noakes but now we've brought in the fact that it's not just that it's this as well and Tim was just like oh my gosh now I understand why the vegan movement was so aunty what I'm talking about and yeah I think so we have layers here of marriages made in hell essentially over hundreds of years creating a dysfunctional family had a disease epidemic but there is one thing though the ILS I might just call out I had a run-in with people involved with the ILS I and I wasn't aware of them I I was involved in a debate and I found out afterwards about the ILS I but from Belinda I believe be messaged at the time you tip me off and I was amazed when I looked up ILS I it was a think-tank which is all the suspect started in America right around Washington or something 78 you see a pink tank starting you know that's corporate revenue kind of stuff going on it's the way it is but when you look and all their directors in the industry side cover every coca-cola Nestle Danone I mean it's just a who's who Kellogg's all the cereal guys and then you look at the other side directors from like education and medicine and all these professors every country allied and I just looked and I said whoa that's exactly what I do if I had an interest to make what you're describing happen of course you what key opinion leaders bring them in get them on board and talk about research and advancing health and X and it's always eat more eat less if you have a look at all of their programs like and carbohydrates and the gospel truth you Oh eat less move more it's the classic seco calories in calories out deception that coca-cola and all the food companies love but if you listen to them now it's exercise more ate less that's what we've worked out you know ills II and the religion this is what it there after eight but so I move more and eat less meat now just to be clear that that is the certainly the intent that's not technically a phrase yet no no but if you hear it for that you look for it so I mean they talk about meat tax ills II now it was a taking Dietetic education into China they're writing the textbooks for dietitians or Dietetics for China at the moment and medicine so that the things to listen out for now that you know they might not specifically say it let's meet let's call it plant-based but you know euphemisms are everywhere ER and when you hear the terms plant-based diet when you hear the term vegan when you hear the term exercise is medicine when you hear the term lifestyle medicine ills II just recognize that they have a history behind them which is actually based on ideology ideology which is now intertwined with corporate vested interests and it's not there for our health it might it's advertised as such and they believe in it we don't always agree ok there's a bit of marriage counseling over intervened quick but they believe it's for health so in fairness they but health and salvation and that's the difference it's the heady mixture that's always the problem and and in fairness the disclaimer is very important not against religion not against these diets however the problem the problems with religion historically for thousands of years often have been great ideas with good intentions but certain dogmas then are what have caused the issue over over centuries and millennia and here we're seeing you know a lot of what they're doing is for the right reason it's good stuff and unfortunately it's just carrying with as a Trojan horse of something that's completely irrational and anti-scientific and that's being carried through unfortunately I think that's perfect that's it they got it I just got up off to the wrong start so you know occasionally you might drive up the highway that on the wrong side and sooner or later you'll work out that hang on we've gotten we're in trouble or less you get the whole world to switch the sides if you drive up which it looks like what they're trying to do because I realized we're in trouble but I actually think you know there's this head-on collision yet out to happen and if you are if we understand history I mean I looked at her aghast I went what does Percy Paris and that's all I know but when you first but baby Gary first heard the stuff is in hold on a minute you sure he'd come in from where can I go you won't believe what I found out today I spoke out about this at the CrossFit Games last year their field conference in and I said Linda I need to now recheck all this before I'm going to say it out loud who'd been listening to me and just believing me and and so I got all the references so all that talk was completely referenced but before that we actually popped in and saw I rang up Zoe harken it's a Zoe I'm gonna drag her in I said Zoe can we come and have a chat to you so we traveled from Australia to Wales Zoe and Andy and Marika sorbus came up from Cape Town and we sat there in their house for five days and said are we crazy can we just check it all with you and so we had five laptops going all cross-referencing a name secret yeah you're actually right yeah we're not making it up and and then that talk was given it's been acknowledged repeatedly since then by members of the inventors church we've got a lot of ex Adventists who have come along and said you're absolutely right they'd probably be my biggest supporters now unlike some of the people who had contacted me the most and talked to me and just go just make sense I hadn't realized and then and then in most recent times this acknowledgement by the Adventist Church that what we're talking about is actually completely relevant so as we all move forward it's just important to know if someone comes to your table that what happed I wearing and I and I think in going forward ideology also needs to be discussed as a conflict of interest in nutrition science because it's it's having a huge influence I actually loved our point Belinda to so many important points it's dizzying but that one is huge in itself because an ideological driver for for human being is much more powerful than simply some extra money true classic conflict of interest the CEO is we see influencing medicine and there are Studies on this can sometimes only amount to a few thousand dollars a year and gifts to doctors and sure but ideology is a much more powerful driver of a human than any it comes on half it comes in the heart and it's part of your your essential intent we used to call it management and but that's a huge point conflict of interest should include if you have religious and ideological beliefs that that that clearly would affect your your your bias toward certain but this is where it is you know there's a huge conflict of interest and it just needs to be acknowledged and and I in going forward if we're creating I mean do any guidelines at all but for sick people if we're going forward and creating guidelines it need you know we may need those people who've got incredible experience in a vegan diet to be helping right that part of the dietary guidelines but acknowledging them their beliefs and then people who want to talk about low-carb we need to get those people are not the people who have got the vegan interests doing the low-carb you know it's it's about creating fairness I think and transparency above all transparency above all where everyone is as laid it out on the table where they're coming from very good well I think that's going to begin happening in the coming years the rate at which all of this gets resolved is is the debate I think I know talking to andreas Seinfeld about this a few times over the years will it take around ten years to largely get more clarity transparency and and good science or will it be faster with the growing low-carb keto movement is quite rapid growth we might close on now what do you think to reach a point where largely things are more transparent and the general public have more of a grasp of the science I'd like to think it's going to happen tomorrow but it's going to take a lot longer I think there are so many forces out there that we can changed the world would like to but we can as individuals make a decision about what we do this afternoon and tomorrow we can do that for our families and that all of the work we're doing is to support those people who want to make a difference and so yes we it you know it would be nice to save the world but we're going to need to start with saving ourselves first of all and a lot of the resources for this and the viterbi lenders put together just to let you know it's on the I support gary comm site so that we're making it all public it's all there I created a website really annoyed ephra no doubt I created a website saying I support Gary and I've just started putting all these things up and it's been really interesting like journalists have contacted me the u.s. right-to-know has recently contacted me they want to know about the serial documents that I've uncovered so it's quite fascinating creating a website that just supports your husband is something they never expected it was super obeah and that's the beauty in the modern you know internet environment where where people can fight back with information against misinformation so so that's a fantastic platform and i guess when i release this i'll put the links also and i also think if we did we mentioned us before a nice kind of family tree going back to the eighteen hundreds just with the key players and interconnections maybe that's that's something to be good excellent we'll do that for transparency well that's not for going after anyone for transparency and it's just honesty put it there great thanks hey thanks a lot pal in the fantastic job great job you guys are doing smack thanks for tuning in guys if you're watching on YouTube you can see my subscribe button in the middle of the screen a free viewing of the Widowmaker movie on the far right and myself and dr. Gerber's book each rich live long on the left otherwise please do subscribe to the audio podcast thanks
+          </p>
+        </q-scroll-area>
+      </template>
+    </q-splitter>
+    <q-page-sticky :offset="fabPos" class="z-top" position="top-right">
+      <q-fab
+        :disable="draggingFab"
+        @click="editClicked"
+        color="accent"
+        direction="right"
+        icon="create"
+        ref="editFab"
+        v-touch-pan.prevent.mouse="moveFab">
+        <q-btn-group ref="editBtnGroup" rounded v-touch-pan.prevent.mouse="moveFab">
+          <q-btn
+            :text-color="(activeEditBtn == 'linkBtn') ? 'black': 'white'"
+            @click="linkClicked('linkBtn')"
+            color="amber"
+            glossy
+            icon="link"
+            ref="linkBtn"
+            rounded>
+            <q-tooltip
+              :delay="1000"
+              content-class="bg-accent shadow-4"
+              content-style="font-size: 16px">Create a LINK to more information.</q-tooltip>
+          </q-btn>
+          <q-btn
+            text-color="red"
+            @click="linkOffClicked('linkOffBtn')"
+            color="amber"
+            glossy
+            icon="link_off"
+            ref="linkOffBtn"
+            rounded>
+            <q-tooltip
+              :delay="1000"
+              content-class="bg-accent shadow-4"
+              content-style="font-size: 16px">Remove a LINK.</q-tooltip>
+          </q-btn>
+          <q-btn
+            :text-color="(activeEditBtn == 'boldBtn') ? 'black': 'white'"
+            @click="boldClicked('boldBtn')"
+            color="amber"
+            glossy
+            icon="format_bold"
+            ref="boldBtn"
+            rounded>
+            <q-tooltip
+              :delay="1000"
+              content-class="bg-accent shadow-4"
+              content-style="font-size: 16px">BOLD the selection</q-tooltip>
+          </q-btn>
+          <q-btn
+            :text-color="(activeEditBtn == 'redBtn') ? 'black': 'white'"
+            @click="redClicked('redBtn')"
+            color="red"
+            glossy
+            icon="format_paint"
+            ref="redBtn"
+            rounded>
+            <q-tooltip
+              :delay="1000"
+              content-class="bg-accent shadow-4"
+              content-style="font-size: 16px">Color the text RED</q-tooltip>
+          </q-btn>
+          <q-btn
+            :text-color="(activeEditBtn == 'blueBtn') ? 'black': 'white'"
+            @click="blueClicked('blueBtn')"
+            color="blue"
+            glossy
+            icon="format_paint"
+            ref="blueBtn"
+            rounded>
+            <q-tooltip
+              :delay="1000"
+              content-class="bg-accent shadow-4"
+              content-style="font-size: 16px">Color the text BLUE</q-tooltip>
+          </q-btn>
+          <q-btn
+            :text-color="(activeEditBtn == 'greenBtn') ? 'black': 'white'"
+            @click="greenClicked('greenBtn')"
+            color="green"
+            glossy
+            icon="format_paint"
+            ref="greenBtn"
+            rounded>
+            <q-tooltip
+              :delay="1000"
+              content-class="bg-accent shadow-4"
+              content-style="font-size: 16px">Color the text GREEN</q-tooltip>
+          </q-btn>
+          <q-btn
+            :text-color="(activeEditBtn == 'saveBtn') ? 'black': 'white'"
+            @click="saveClicked('saveBtn')"
+            color="amber"
+            glossy
+            icon-right="save"
+            ref="saveBtn"
+            rounded>
+            <q-tooltip
+              :delay="1000"
+              content-class="bg-accent shadow-4"
+              content-style="font-size: 16px">SAVE your changes</q-tooltip>
+          </q-btn>
+        </q-btn-group>
+      </q-fab>
+    </q-page-sticky>
   </q-page>
 </template>
 
 <script>
+import Vue from "vue";
+import VueYouTubeEmbed from "vue-youtube-embed";
+Vue.use(VueYouTubeEmbed);
+
 export default {
-  name: "DrFettke_116"
+  name: "DrFettke_116",
+  data() {
+    return {
+      activeEditBtn: null,
+      fabPos: [398, -29], // TODO set the math on this
+      draggingFab: false,
+      isLandscape: true,
+      player: null,
+      currentTime: 0, //seconds
+      duration: 0,
+      percentComplete: 0,
+      scrollPosition: 1000,
+      scrollTimer: null,
+      splitterModel: 50 // start at 50%
+    };
+  },
+  computed: {},
+  methods: {
+    editClicked() {
+      // change transcript to edit mode
+      if (this.$refs.editFab.showing) {
+        this.$refs.transcriptText.setAttribute("contenteditable", true);
+        console.log("editClicked true");
+      } else {
+        this.$refs.transcriptText.removeAttribute("contenteditable");
+        console.log("editClicked false");
+      }
+    },
+    toggleActiveEditBtn(btn) {
+      if (this.activeEditBtn == null) {
+        this.activeEditBtn = btn;
+      } else if (this.activeEditBtn == btn) {
+        this.activeEditBtn = null;
+      } else {
+        this.activeEditBtn = btn;
+      }
+    },
+    linkClicked(btn) {
+      console.log("linkClicked btn: ", btn);
+      this.toggleActiveEditBtn(btn);
+      this.addLink();
+    },
+    linkOffClicked(btn) {
+      console.log("linkOffClicked btn: ", btn);
+      this.toggleActiveEditBtn(btn);
+      document.execCommand("unlink");
+    },
+    boldClicked(btn) {
+      console.log("boldClicked");
+      this.toggleActiveEditBtn(btn);
+    },
+    redClicked(btn) {
+      console.log("redClicked");
+      this.toggleActiveEditBtn(btn);
+    },
+    blueClicked(btn) {
+      console.log("blueClicked");
+      this.toggleActiveEditBtn(btn);
+    },
+    greenClicked(btn) {
+      console.log("greenClicked");
+      this.toggleActiveEditBtn(btn);
+    },
+    saveClicked(btn) {
+      console.log("saveClicked");
+      this.toggleActiveEditBtn(btn);
+    },
+
+    moveFab(ev) {
+      this.draggingFab = ev.isFirst !== true && ev.isFinal !== true;
+
+      this.fabPos = [this.fabPos[0] - ev.delta.x, this.fabPos[1] + ev.delta.y];
+    },
+    animateScroll() {
+      this.$refs.transcript.setScrollPosition(this.scrollPosition, 1000);
+      //   this.position = Math.floor(Math.random() * 1001) * 20;
+    },
+    getPercentComplete() {
+      this.currentTime = this.player.getCurrentTime();
+      this.percentComplete = this.currentTime / this.duration;
+      if (this.percentComplete < 0.01) {
+        this.percentComplete = 0;
+      } else if (this.percentComplete > 0.095) {
+        this.percentComplete = 1;
+      }
+      console.log("percentComplete: ", this.percentComplete);
+      this.scrollPosition =
+        this.percentComplete * this.$refs.transcript.scrollSize * 0.9;
+      this.animateScroll();
+    },
+    startScrollTimer() {
+      this.scrollTimer = setInterval(() => {
+        this.getPercentComplete();
+      }, 1000);
+    },
+    stopScrollTimer() {
+      clearInterval(this.scrollTimer);
+    },
+    ready(event) {
+      this.player = event.target;
+      this.duration = Math.round(this.player.getDuration());
+    },
+    playing(event) {
+      this.startScrollTimer();
+      console.log("playing");
+    },
+    paused() {
+      console.log("paused 2");
+      this.stopScrollTimer();
+    },
+    ended() {
+      this.stopScrollTimer();
+    },
+    stop() {
+      console.log("Stopped");
+      this.player.stopVideo();
+      this.stopScrollTimer();
+    },
+    pause() {
+      console.log("paused");
+      this.player.pauseVideo();
+      this.stopScrollTimer();
+    },
+    onResize() {
+      console.log(
+        "resized window.screen.orientation.type: ",
+        window.screen.orientation.type
+      );
+      if (window.screen.orientation.type == "landscape-primary") {
+        this.isLandscape = true;
+      } else {
+        this.isLandscape = false;
+      }
+    },
+    onTextChange(e) {
+      //   console.log("text Selected e: ", e);
+      //   console.log("node = this.$refs.transcript: ", this.$refs.transcript);
+      const selectionNode = window.getSelection();
+      const selection = selectionNode.toString();
+      if (selection.length > 1) {
+        console.log("selection.length: ", selection.length);
+        this.addLink();
+        selectionNode.removeAllRanges();
+      }
+
+      //   const range = document.createRange();
+      //   range.selectNodeContents(this.$refs.transcript);
+      //   selection.removeAllRanges();
+      //   selection.addRange(range);
+      /*
+      Works!
+      document.execCommand("styleWithCSS", false, true);
+      document.execCommand("foreColor", false, "hotpink");
+      */
+      //  document.execCommand('bold');
+      // document.execCommand('createLink', false, 'http://google.ca');
+    },
+    addLink() {
+      var linkURL = prompt("Enter a URL:", "https://");
+      if (linkURL == null) {
+        return;
+      }
+      var newLink = document.execCommand("createLink", false, linkURL);
+      this.addTarget();
+    },
+    addTarget() {
+      let links = this.$refs.transcriptText.getElementsByTagName("a");
+      for (var link of links) {
+        link.target = "_blank";
+      }
+      // HACK better to find the right link?
+    }
+  }
 };
 </script>
-<style scoped>
-    .iframe-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    height: 0;
-    }
-    .iframe-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    }
+
+<style lang="scss">
+.q-fab__actions .q-btn {
+  margin: 0;
+  height: 42px;
+}
+.q-splitter--vertical > .q-splitter__separator {
+  width: 0.5em;
+}
+.q-splitter--horizontal > .q-splitter__separator {
+  height: 0.5em;
+}
+.q-splitter__separator {
+  background-color: white;
+}
+#pageSeparator {
+  background-color: $primary;
+  //   margin: .5em;
+}
+#pageSeparator.landscape {
+  width: 0.5em;
+  height: 100%;
+}
+#pageSeparator.portrait {
+  height: 0.5em;
+  width: 100%;
+  flex-wrap: nowrap;
+}
+.iframe-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 </style>

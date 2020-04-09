@@ -36,9 +36,33 @@ module.exports = {
 
   // add your custom rules here
   rules: {
-    'prefer-promise-reject-errors': 'off',
-
+    "prefer-promise-reject-errors": "off",
     // allow debugger during development only
-    'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off'
+    "no-debugger": process.env.NODE_ENV === "production" ? "error" : "off",
+    "vue/html-self-closing": "off",
+    "max-len": "off",
+    "vue/html-closing-bracket-newline": [
+      "error",
+      {
+        singleline: "never",
+        multiline: "never"
+      }
+    ],
+    "vue/max-attributes-per-line": [
+      "error",
+      {
+        singleline: 10,
+        multiline: {
+          max: 10,
+          allowFirstLine: true
+        }
+      }
+    ],
+    "vue/multiline-html-element-content-newline": "off",
+    "vue/singleline-html-element-content-newline": "off",
+    "vue/html-closing-bracket-newline": [
+      "warn",
+      { singleline: "never", multiline: "never" }
+    ]
   }
-}
+};

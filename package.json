@@ -15,7 +15,8 @@
     "@quasar/extras": "^1.0.0",
     "axios": "^0.18.1",
     "quasar": "^1.0.0",
-    "vue-i18n": "^8.0.0"
+    "vue-i18n": "^8.0.0",
+    "vue-youtube-embed": "^2.2.2"
   },
   "devDependencies": {
     "@quasar/app": "^1.0.0",
